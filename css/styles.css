@@ -1,0 +1,98 @@
+#title {
+  background-image: url("https://wallpaperaccess.com/download/modern-house-2056374");
+  min-height: 420px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.container-fluid {
+  padding: 0 0 0;
+  height: 50px;
+}
+
+.navbar {
+  padding: 0;
+}
+
+.navbar-brand {
+  margin-left: 15%;
+  margin-right: 10%;
+  font-family: "Ubuntu";
+  font-size: 2rem;
+}
+
+.nav-contact{
+  margin-right: 15%;
+  margin-left: 20%;
+  font-family: "Ubuntu";
+  font-size: 1rem;
+  color: #6c757d;
+  text-decoration: none;
+}
+
+
+.nav-item {
+  padding: 0 25px;
+}
+
+.nav-link {
+  font-size: 1rem;
+  font-family: "Ubuntu";
+}
+
+hr {
+  margin-top: 2px;
+  color: white;
+}
+
+.title-row{
+  padding-left: 13%;
+  padding-top: 5%;
+  padding-right: 53%;
+}
+
+
+h1{
+  color: white;
+  font-family: 'Ubuntu';
+  font-size: 3rem;  line-height: 1;
+  font-weight: 400;
+}
+
+h3{
+  color: white;
+  font-family: 'Ubuntu';
+  font-size: 1rem;  line-height: 1;
+  font-weight: 400;
+}
+
+
+.btn{
+  margin-top: 5%;
+}
+
+.about-row{
+  background-color: #e9ecef;
+  margin-left: 0;
+  padding-right: 5%;
+  margin-right: 15%;
+  text-align: left;
+}
+
+#aboutus{
+  padding: 5%;
+}
+
+
+h2{
+  text-align: center;
+}
+
+.building-img{
+  padding-left: 15%;
+  margin-right: 0;
+  text-align: right;
+
+}
